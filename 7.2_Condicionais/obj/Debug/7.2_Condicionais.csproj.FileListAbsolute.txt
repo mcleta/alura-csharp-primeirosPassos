@@ -1,0 +1,7 @@
+C:\Dev\Alura\C#\HeloWorld\7.2_Condicionais\bin\Debug\7.2_Condicionais.exe.config
+C:\Dev\Alura\C#\HeloWorld\7.2_Condicionais\bin\Debug\7.2_Condicionais.exe
+C:\Dev\Alura\C#\HeloWorld\7.2_Condicionais\bin\Debug\7.2_Condicionais.pdb
+C:\Dev\Alura\C#\HeloWorld\7.2_Condicionais\obj\Debug\7.2_Condicionais.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\7.2_Condicionais\obj\Debug\7.2_Condicionais.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\7.2_Condicionais\obj\Debug\7.2_Condicionais.exe
+C:\Dev\Alura\C#\HeloWorld\7.2_Condicionais\obj\Debug\7.2_Condicionais.pdb

@@ -1,0 +1,7 @@
+C:\Dev\Alura\C#\HeloWorld\6_AtribuicoesVariaveis\bin\Debug\6_AtribuicoesVariaveis.exe.config
+C:\Dev\Alura\C#\HeloWorld\6_AtribuicoesVariaveis\bin\Debug\6_AtribuicoesVariaveis.exe
+C:\Dev\Alura\C#\HeloWorld\6_AtribuicoesVariaveis\bin\Debug\6_AtribuicoesVariaveis.pdb
+C:\Dev\Alura\C#\HeloWorld\6_AtribuicoesVariaveis\obj\Debug\6_AtribuicoesVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\6_AtribuicoesVariaveis\obj\Debug\6_AtribuicoesVariaveis.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\6_AtribuicoesVariaveis\obj\Debug\6_AtribuicoesVariaveis.exe
+C:\Dev\Alura\C#\HeloWorld\6_AtribuicoesVariaveis\obj\Debug\6_AtribuicoesVariaveis.pdb

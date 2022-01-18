@@ -1,0 +1,7 @@
+C:\Dev\Alura\C#\HeloWorld\P12_CalcInvestLongo\bin\Debug\P12_CalcInvestLongo.exe.config
+C:\Dev\Alura\C#\HeloWorld\P12_CalcInvestLongo\bin\Debug\P12_CalcInvestLongo.exe
+C:\Dev\Alura\C#\HeloWorld\P12_CalcInvestLongo\bin\Debug\P12_CalcInvestLongo.pdb
+C:\Dev\Alura\C#\HeloWorld\P12_CalcInvestLongo\obj\Debug\P12_CalcInvestLongo.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\P12_CalcInvestLongo\obj\Debug\P12_CalcInvestLongo.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\P12_CalcInvestLongo\obj\Debug\P12_CalcInvestLongo.exe
+C:\Dev\Alura\C#\HeloWorld\P12_CalcInvestLongo\obj\Debug\P12_CalcInvestLongo.pdb

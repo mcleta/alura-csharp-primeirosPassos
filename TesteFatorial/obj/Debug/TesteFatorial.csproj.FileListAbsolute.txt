@@ -1,0 +1,8 @@
+C:\Dev\Alura\C#\HeloWorld\TesteFatorial\bin\Debug\TesteFatorial.exe.config
+C:\Dev\Alura\C#\HeloWorld\TesteFatorial\bin\Debug\TesteFatorial.exe
+C:\Dev\Alura\C#\HeloWorld\TesteFatorial\bin\Debug\TesteFatorial.pdb
+C:\Dev\Alura\C#\HeloWorld\TesteFatorial\obj\Debug\TesteFatorial.csproj.AssemblyReference.cache
+C:\Dev\Alura\C#\HeloWorld\TesteFatorial\obj\Debug\TesteFatorial.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\TesteFatorial\obj\Debug\TesteFatorial.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\TesteFatorial\obj\Debug\TesteFatorial.exe
+C:\Dev\Alura\C#\HeloWorld\TesteFatorial\obj\Debug\TesteFatorial.pdb

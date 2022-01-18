@@ -1,0 +1,7 @@
+C:\Dev\Alura\C#\HeloWorld\TesteFor2\bin\Debug\TesteFor2.exe.config
+C:\Dev\Alura\C#\HeloWorld\TesteFor2\bin\Debug\TesteFor2.exe
+C:\Dev\Alura\C#\HeloWorld\TesteFor2\bin\Debug\TesteFor2.pdb
+C:\Dev\Alura\C#\HeloWorld\TesteFor2\obj\Debug\TesteFor2.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\TesteFor2\obj\Debug\TesteFor2.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\TesteFor2\obj\Debug\TesteFor2.exe
+C:\Dev\Alura\C#\HeloWorld\TesteFor2\obj\Debug\TesteFor2.pdb

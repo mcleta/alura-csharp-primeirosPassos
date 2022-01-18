@@ -1,0 +1,8 @@
+C:\Dev\Alura\C#\HeloWorld\P13_ForEncadeado\bin\Debug\P13_ForEncadeado.exe.config
+C:\Dev\Alura\C#\HeloWorld\P13_ForEncadeado\bin\Debug\P13_ForEncadeado.exe
+C:\Dev\Alura\C#\HeloWorld\P13_ForEncadeado\bin\Debug\P13_ForEncadeado.pdb
+C:\Dev\Alura\C#\HeloWorld\P13_ForEncadeado\obj\Debug\P13_ForEncadeado.csproj.AssemblyReference.cache
+C:\Dev\Alura\C#\HeloWorld\P13_ForEncadeado\obj\Debug\P13_ForEncadeado.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\P13_ForEncadeado\obj\Debug\P13_ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\P13_ForEncadeado\obj\Debug\P13_ForEncadeado.exe
+C:\Dev\Alura\C#\HeloWorld\P13_ForEncadeado\obj\Debug\P13_ForEncadeado.pdb

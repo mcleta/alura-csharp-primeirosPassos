@@ -1,0 +1,8 @@
+C:\Dev\Alura\C#\HeloWorld\HeloWorld\bin\Debug\HeloWorld.exe.config
+C:\Dev\Alura\C#\HeloWorld\HeloWorld\bin\Debug\HeloWorld.exe
+C:\Dev\Alura\C#\HeloWorld\HeloWorld\bin\Debug\HeloWorld.pdb
+C:\Dev\Alura\C#\HeloWorld\HeloWorld\obj\Debug\HeloWorld.csproj.AssemblyReference.cache
+C:\Dev\Alura\C#\HeloWorld\HeloWorld\obj\Debug\HeloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\HeloWorld\obj\Debug\HeloWorld.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\HeloWorld\obj\Debug\HeloWorld.exe
+C:\Dev\Alura\C#\HeloWorld\HeloWorld\obj\Debug\HeloWorld.pdb

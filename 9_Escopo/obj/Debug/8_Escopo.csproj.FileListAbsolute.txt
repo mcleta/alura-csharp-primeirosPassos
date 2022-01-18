@@ -1,0 +1,8 @@
+C:\Dev\Alura\C#\HeloWorld\9_Escopo\bin\Debug\9_Escopo.exe.config
+C:\Dev\Alura\C#\HeloWorld\9_Escopo\bin\Debug\9_Escopo.exe
+C:\Dev\Alura\C#\HeloWorld\9_Escopo\bin\Debug\9_Escopo.pdb
+C:\Dev\Alura\C#\HeloWorld\9_Escopo\obj\Debug\8_Escopo.csproj.AssemblyReference.cache
+C:\Dev\Alura\C#\HeloWorld\9_Escopo\obj\Debug\8_Escopo.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\9_Escopo\obj\Debug\8_Escopo.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\9_Escopo\obj\Debug\9_Escopo.exe
+C:\Dev\Alura\C#\HeloWorld\9_Escopo\obj\Debug\9_Escopo.pdb

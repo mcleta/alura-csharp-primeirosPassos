@@ -1,0 +1,8 @@
+C:\Dev\Alura\C#\HeloWorld\5_Strings\bin\Debug\5_Strings.exe.config
+C:\Dev\Alura\C#\HeloWorld\5_Strings\bin\Debug\5_Strings.exe
+C:\Dev\Alura\C#\HeloWorld\5_Strings\bin\Debug\5_Strings.pdb
+C:\Dev\Alura\C#\HeloWorld\5_Strings\obj\Debug\5_Strings.csproj.AssemblyReference.cache
+C:\Dev\Alura\C#\HeloWorld\5_Strings\obj\Debug\5_Strings.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\5_Strings\obj\Debug\5_Strings.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\5_Strings\obj\Debug\5_Strings.exe
+C:\Dev\Alura\C#\HeloWorld\5_Strings\obj\Debug\5_Strings.pdb

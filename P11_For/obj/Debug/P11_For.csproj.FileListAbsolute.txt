@@ -1,0 +1,7 @@
+C:\Dev\Alura\C#\HeloWorld\P11_For\bin\Debug\P11_For.exe.config
+C:\Dev\Alura\C#\HeloWorld\P11_For\bin\Debug\P11_For.exe
+C:\Dev\Alura\C#\HeloWorld\P11_For\bin\Debug\P11_For.pdb
+C:\Dev\Alura\C#\HeloWorld\P11_For\obj\Debug\P11_For.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\P11_For\obj\Debug\P11_For.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\P11_For\obj\Debug\P11_For.exe
+C:\Dev\Alura\C#\HeloWorld\P11_For\obj\Debug\P11_For.pdb

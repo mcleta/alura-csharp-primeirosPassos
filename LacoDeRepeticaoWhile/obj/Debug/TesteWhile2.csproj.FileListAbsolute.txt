@@ -1,0 +1,8 @@
+C:\Dev\Alura\C#\HeloWorld\LacoDeRepeticaoWhile\bin\Debug\LacoDeRepeticaoWhile.exe.config
+C:\Dev\Alura\C#\HeloWorld\LacoDeRepeticaoWhile\bin\Debug\LacoDeRepeticaoWhile.exe
+C:\Dev\Alura\C#\HeloWorld\LacoDeRepeticaoWhile\bin\Debug\LacoDeRepeticaoWhile.pdb
+C:\Dev\Alura\C#\HeloWorld\LacoDeRepeticaoWhile\obj\Debug\TesteWhile2.csproj.AssemblyReference.cache
+C:\Dev\Alura\C#\HeloWorld\LacoDeRepeticaoWhile\obj\Debug\TesteWhile2.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\LacoDeRepeticaoWhile\obj\Debug\TesteWhile2.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.exe
+C:\Dev\Alura\C#\HeloWorld\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.pdb

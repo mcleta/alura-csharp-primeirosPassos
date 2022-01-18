@@ -1,0 +1,7 @@
+C:\Dev\Alura\C#\HeloWorld\9_Switch\bin\Debug\9_Switch.exe.config
+C:\Dev\Alura\C#\HeloWorld\9_Switch\bin\Debug\9_Switch.exe
+C:\Dev\Alura\C#\HeloWorld\9_Switch\bin\Debug\9_Switch.pdb
+C:\Dev\Alura\C#\HeloWorld\9_Switch\obj\Debug\9_Switch.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\9_Switch\obj\Debug\9_Switch.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\9_Switch\obj\Debug\9_Switch.exe
+C:\Dev\Alura\C#\HeloWorld\9_Switch\obj\Debug\9_Switch.pdb

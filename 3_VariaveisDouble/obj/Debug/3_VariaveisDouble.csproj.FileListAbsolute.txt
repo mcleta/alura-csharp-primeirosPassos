@@ -1,0 +1,8 @@
+C:\Dev\Alura\C#\HeloWorld\3_VariaveisDouble\bin\Debug\3_VariaveisDouble.exe.config
+C:\Dev\Alura\C#\HeloWorld\3_VariaveisDouble\bin\Debug\3_VariaveisDouble.exe
+C:\Dev\Alura\C#\HeloWorld\3_VariaveisDouble\bin\Debug\3_VariaveisDouble.pdb
+C:\Dev\Alura\C#\HeloWorld\3_VariaveisDouble\obj\Debug\3_VariaveisDouble.csproj.AssemblyReference.cache
+C:\Dev\Alura\C#\HeloWorld\3_VariaveisDouble\obj\Debug\3_VariaveisDouble.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\3_VariaveisDouble\obj\Debug\3_VariaveisDouble.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\3_VariaveisDouble\obj\Debug\3_VariaveisDouble.exe
+C:\Dev\Alura\C#\HeloWorld\3_VariaveisDouble\obj\Debug\3_VariaveisDouble.pdb

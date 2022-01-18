@@ -1,0 +1,7 @@
+C:\Dev\Alura\C#\HeloWorld\4_ConversoesEOutros\bin\Debug\4_ConversoesEOutros.exe.config
+C:\Dev\Alura\C#\HeloWorld\4_ConversoesEOutros\bin\Debug\4_ConversoesEOutros.exe
+C:\Dev\Alura\C#\HeloWorld\4_ConversoesEOutros\bin\Debug\4_ConversoesEOutros.pdb
+C:\Dev\Alura\C#\HeloWorld\4_ConversoesEOutros\obj\Debug\4_ConversoesEOutros.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\4_ConversoesEOutros\obj\Debug\4_ConversoesEOutros.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\4_ConversoesEOutros\obj\Debug\4_ConversoesEOutros.exe
+C:\Dev\Alura\C#\HeloWorld\4_ConversoesEOutros\obj\Debug\4_ConversoesEOutros.pdb

@@ -1,0 +1,8 @@
+C:\Dev\Alura\C#\HeloWorld\10_CalcPoupamca\bin\Debug\10_CalcPoupamca.exe.config
+C:\Dev\Alura\C#\HeloWorld\10_CalcPoupamca\bin\Debug\10_CalcPoupamca.exe
+C:\Dev\Alura\C#\HeloWorld\10_CalcPoupamca\bin\Debug\10_CalcPoupamca.pdb
+C:\Dev\Alura\C#\HeloWorld\10_CalcPoupamca\obj\Debug\P10_CalcPoupamca.csproj.AssemblyReference.cache
+C:\Dev\Alura\C#\HeloWorld\10_CalcPoupamca\obj\Debug\P10_CalcPoupamca.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\HeloWorld\10_CalcPoupamca\obj\Debug\P10_CalcPoupamca.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\HeloWorld\10_CalcPoupamca\obj\Debug\10_CalcPoupamca.exe
+C:\Dev\Alura\C#\HeloWorld\10_CalcPoupamca\obj\Debug\10_CalcPoupamca.pdb
